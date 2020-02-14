@@ -1,0 +1,28 @@
+
+h1{
+	color:red;
+}
+
+* {
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+.page{
+	color: green;
+}
+
+.heading{
+	
+	color: white;
+	background: blue;
+	height:15px;
+}
+
+table {
+	align-items: center;
+}
+a{
+	background:red;
+}

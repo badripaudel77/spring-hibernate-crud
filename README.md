@@ -14,6 +14,6 @@ then to create table run the following :
 
 CREATE TABLE customer ( id int(11) NOT NULL, first_name varchar(45) NOT NULL, last_name varchar(45) NOT NULL, email varchar(45) NOT NULL ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
-INSERT INTO customer (id, first_name, last_name, email) VALUES (13, 'Badri', 'Paudel', 'badripaudel77@gmail.com'), (15, 'Alisha ', 'Paudel', 'alisha45@gmail.com'), (18, 'Gita', 'Bhattarai', 'gita12.ncit@edu.np'), (19, 'Ganesh', 'Stha', 'ganesh56@gmail.com'), (32, 'Woo', 'Jian', 'Woo@gmail.com'), (35, 'Hari', 'Vai', 'hari12@gmail.com');
+INSERT INTO customer (id, first_name, last_name, email) VALUES (13, 'Badri', 'Paudel', 'bp@gmail.com'), (15, 'Alisha ', 'Paudel', 'ap@gmail.com'), (18, 'Gita', 'Bhattarai', 'gp.ncit@edu.np'), (19, 'Ganesh', 'Stha', 'gs@gmail.com'), (32, 'Woo', 'Jian', 'Woo@gmail.com'), (35, 'Hari', 'Vai', 'hp@gmail.com');
 
 ALTER TABLE customer ADD PRIMARY KEY (id);
